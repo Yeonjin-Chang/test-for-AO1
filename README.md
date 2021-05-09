@@ -1,1 +1,1 @@
-# test-for-AO1
+# SNU_AO1_Yeonjin
